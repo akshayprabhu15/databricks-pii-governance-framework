@@ -1,0 +1,7 @@
+faker
+mimesis
+ff3
+presidio_analyzer
+presidio_anonymizer
+tabulate
+pydantic<2.0
